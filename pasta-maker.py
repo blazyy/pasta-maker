@@ -62,6 +62,7 @@ def augment_msg(msg):
         'LIKE WOAH, I CANNOT BELIEVE YOU WOULD SAY SOMETHING LIKE'
         'I did not expect that you know?'
         'from someone like you??'
+        'bravo'
         ' '
     ]
     rand_beginning = permute_msg_case(beginnings[random.randint(0, len(beginnings) - 1)])
